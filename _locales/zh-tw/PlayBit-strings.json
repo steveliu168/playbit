@@ -1,0 +1,15 @@
+{
+    "PlayBit.Servo|block": "9g舵機|%index|角度 %degree",
+    "PlayBit.GeekServo|block": "Geekservo|9g舵機|%index|角度 %degree",
+    "PlayBit.GeekServo2KG|block": "Geekservo|2KG舵機|%index|角度 %degree",
+    "PlayBit.MotorRun|block": "馬達|%index|速度 %speed",
+    "PlayBit.MotorRunDual|block": "馬達|%motor1|速度 %speed1|%motor2|速度 %speed2",
+    "PlayBit.MotorRunDelay|block": "馬達|%index|速度 %speed|延時 %delay|s",
+    "PlayBit.MotorStop|block": "馬達 停止|%index|",
+    "PlayBit.MotorStopAll|block": "停止所有馬達",
+    "PlayBit.StepperDegree|block": "步進 28BYJ-48|%index|角度 %degree",
+    "PlayBit.StepperTurn|block": "步進 28BYJ-48|%index|圈數 %turn",
+    "PlayBit.StepperDual|block": "雙步進(角度) |M1 %degree1| M2 %degree2",
+    "PlayBit.StpCarMove|block": "步進小車 前進 |距離(cm) %distance|輪直徑(mm) %diameter",
+    "PlayBit.StpCarTurn|block": "步進小車 轉向 |角度 %turn|輪直徑(mm) %diameter|輪距(mm) %track"
+}

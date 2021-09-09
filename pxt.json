@@ -1,0 +1,21 @@
+{
+    "name": "PlayBit",
+    "version": "0.0.1",
+    "description": "Extension for PlayBit",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "neopixel": "github:zarkon/pxt-neopixel#v0.6.15"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh-cn/PlayBit-strings.json",
+        "_locales/zh-tw/PlayBit-strings.json"
+
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
